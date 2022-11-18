@@ -1,0 +1,25 @@
+v1
+lua 1
+lua_load hit_reg_fix
+log_rotation 16384
+setcmd afk -1
+antihalofp 1
+antispam 2
+antiwarp 1
+save_scores 1
+sapp_console 1
+msg_prefix "*FG* ."
+gs_ping_fix 1
+aimbot_ban 5000 1
+no_lead 1
+adminban 2
+custom_sleep 8
+packet_limit 100000
+antiglitch 1
+antilagspawn 1
+mtv 1
+sv_single_flag_force_reset 1
+disable_sj 1
+anticheat 0
+network_thread 0
+auto_update 0
