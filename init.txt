@@ -1,0 +1,9 @@
+sv_name "=FG=FRACTALSERVERS.COM NEW GAMESERVER"
+sv_password FG0325
+sv_rcon_password "8961"
+sv_public 1
+sv_motd motd.txt
+sv_maxplayers 16
+sv_mapcycle_timeout 10
+sv_map bloodgulch classic_slayer_pro
+load
